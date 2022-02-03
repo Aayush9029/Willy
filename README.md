@@ -1,6 +1,8 @@
 # Willy
 A program that will release your untold secerets X days after you 💀 ~~or forget to check-in~~
 
+*Inspired by:  Digital Legacy by Apple*
+
 > Why is this a thing?
 > 
 > I am bored.
